@@ -1,1 +1,1 @@
-# NCBI_eutilities
+Napisz skrypt, który dla każdego organizmu z pliku wyszuka (korzystając z E-Utilities) sekwencje białkowe genu TNRC6A z bazy RefSeq. Znalezione sekwencje w obrębie organizmu powinny zostać zapisane do pliku tekstowego w formacie FASTA. Na przykład, sekwencje białkowe TNRC6A dla organizmu Mus musculus powinny zostać zapisane w pliku mus_musculus.fasta.
